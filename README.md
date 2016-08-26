@@ -1,2 +1,2 @@
 # hello-hsp
-half shadow players site
+Half shadow players site. This is an app for learning & testing new things.
